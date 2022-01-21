@@ -94,5 +94,4 @@ OTHER
 =====
 I wrote this program completely from scratch, using ideas from Richard Korf's
 papers and other various internet resources. Any ideas, interesting comments,
-or suggestions for improvements please email me!
--Andrew Brown <brownan@gmail.com>
+
