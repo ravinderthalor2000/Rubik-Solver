@@ -1,5 +1,4 @@
 Optimal Rubik's Cube Solver
-Written and Copyright © 2008-2009 by Andrew Brown <brownan@gmail.com>
 
 REQUIREMENTS
 ============
